@@ -31,6 +31,12 @@ body {
     outline: none;
     box-shadow: none;
 }
+.generate-btn:hover {
+    background: aquamarine;
+    color: #444;
+    border: 8px solid rebeccapurple;
+    ;
+  }
 
 input[type='text']{
     background-color: #3D4153;
